@@ -12,8 +12,9 @@
     "playlist"
   ],
   "dependencies": {
-    "spotify-web-api-node": "*",
-    "lastfmapi": "*"
+    "lastfmapi": "*",
+    "moment": "^2.10.2",
+    "spotify-web-api-node": "*"
   },
   "devDependencies": {
     "mocha": "*"
