@@ -4,7 +4,7 @@
   "description": "A node application that looks through last.fm history and generatesspotify playlists from it",
   "main": "main.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "keywords": [
     "spotify",
