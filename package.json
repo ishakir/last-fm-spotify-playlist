@@ -16,7 +16,7 @@
     "lastfmapi": "*"
   },
   "devDependencies": {
-    "mocha": "^2.2.4"
+    "mocha": "*"
   },
   "author": "ishakir",
   "license": "MIT"
